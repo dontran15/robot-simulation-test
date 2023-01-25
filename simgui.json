@@ -6,8 +6,10 @@
       }
     },
     "Encoders": {
-      "window": {
-        "visible": true
+      "0": {
+        "header": {
+          "open": true
+        }
       }
     },
     "Other Devices": {
@@ -15,9 +17,9 @@
         "visible": false
       }
     },
-    "RoboRIO": {
+    "Timing": {
       "window": {
-        "visible": true
+        "visible": false
       }
     }
   },
